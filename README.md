@@ -15,4 +15,6 @@
 - [Spring boot](https://spring.io/projects/spring-boot)
 - [Spring MVC](https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/mvc.html)
 - [Spring REST Service - Tutorial](https://spring.io/guides/tutorials/rest)
-
+## BASES DE DATOS
+- [SQLite](https://sqlite.org/)
+- [DB Browser for SQLite](https://sqlitebrowser.org/)
