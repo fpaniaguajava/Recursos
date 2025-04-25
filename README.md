@@ -1,4 +1,6 @@
-# Recursos
+# Recursos JAVA
+![Personas aprendiendo a programar en Java](https://fpaniaguajava.github.io/java.png)
+
 ## JDK
 - [Java - Descarga](https://www.oracle.com/es/java/technologies/downloads/)
 ## EDITORES - IDES
