@@ -18,3 +18,7 @@
 ## BASES DE DATOS
 - [SQLite](https://sqlite.org/)
 - [DB Browser for SQLite](https://sqlitebrowser.org/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [pgAdmin for PostgreSQL](https://www.pgadmin.org/)
+## TOOLS
+- [Postman](https://www.postman.com/)
