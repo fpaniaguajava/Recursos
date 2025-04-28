@@ -11,6 +11,11 @@
 - [Apache Maven](https://maven.apache.org/)
 - [Maven Repository](https://mvnrepository.com/)
 - [Maven Central Repository](https://central.sonatype.com/)
+## HIBERNATE
+- [Hibernate](https://hibernate.org/)
+- [Learn JPA & Hibernate Series](https://www.baeldung.com/learn-jpa-hibernate)
+- [JPA Criteria Queries](https://www.baeldung.com/hibernate-criteria-queries)
+- [JPA vs Hibernate](https://www.arquitecturajava.com/jpa-vs-hibernate/)
 ## SPRING
 - [Spring](https://spring.io/)
 - [Spring initializr](https://start.spring.io/)
