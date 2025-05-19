@@ -23,6 +23,7 @@
 - [Spring boot](https://spring.io/projects/spring-boot)
 - [Spring MVC](https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/mvc.html)
 - [Spring REST Service - Tutorial](https://spring.io/guides/tutorials/rest)
+- [The Best Way to Structure API Responses in Spring Boot](https://medium.com/@dulanjayasandaruwan1998/the-best-way-to-structure-api-responses-in-spring-boot-23eb6892daab)
 ## BASES DE DATOS
 - [SQLite](https://sqlite.org/)
 - [DB Browser for SQLite](https://sqlitebrowser.org/)
