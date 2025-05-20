@@ -23,13 +23,15 @@
 - [Spring boot](https://spring.io/projects/spring-boot)
 - [Spring MVC](https://docs.spring.io/spring-framework/docs/3.2.x/spring-framework-reference/html/mvc.html)
 - [Spring REST Service - Tutorial](https://spring.io/guides/tutorials/rest)
-- [The Best Way to Structure API Responses in Spring Boot](https://medium.com/@dulanjayasandaruwan1998/the-best-way-to-structure-api-responses-in-spring-boot-23eb6892daab)
 ## BASES DE DATOS
 - [SQLite](https://sqlite.org/)
 - [DB Browser for SQLite](https://sqlitebrowser.org/)
 - [PostgreSQL](https://www.postgresql.org/)
 - [pgAdmin for PostgreSQL](https://www.pgadmin.org/)
 - [DBeaver Community](https://dbeaver.io/)
+## API REST
+- [API for Dummies - Libro en formato PDF](https://news.america-digital.com/white-papers/IBM-Api-for-Dummies.pdf)
+- [The Best Way to Structure API Responses in Spring Boot](https://medium.com/@dulanjayasandaruwan1998/the-best-way-to-structure-api-responses-in-spring-boot-23eb6892daab)
 ## TOOLS
 - [JUnit 5](https://junit.org/junit5/)
 - [Postman](https://www.postman.com/)
