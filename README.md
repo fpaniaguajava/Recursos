@@ -20,6 +20,7 @@
 - [Spring Data JPA: Complete Guide and Cheat Sheet](https://medium.com/javarevisited/spring-data-jpa-complete-guide-and-cheat-sheet-c8138577b71a)
 - [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
 - [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa)
+- [JPA Buddy - IntelliJ IDEA plugin for managing JPA data model](https://jpa-buddy.com/)
 ## SPRING
 - [Spring](https://spring.io/)
 - [Spring initializr](https://start.spring.io/)
