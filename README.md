@@ -13,10 +13,13 @@
 - [Maven Central Repository](https://central.sonatype.com/)
 ## HIBERNATE - JPA
 - [Hibernate](https://hibernate.org/)
+- [Introduction to Spring Data JPA](https://www.baeldung.com/the-persistence-layer-with-spring-data-jpa)
 - [Learn JPA & Hibernate Series](https://www.baeldung.com/learn-jpa-hibernate)
 - [JPA Criteria Queries](https://www.baeldung.com/hibernate-criteria-queries)
 - [JPA vs Hibernate](https://www.arquitecturajava.com/jpa-vs-hibernate/)
 - [Spring Data JPA: Complete Guide and Cheat Sheet](https://medium.com/javarevisited/spring-data-jpa-complete-guide-and-cheat-sheet-c8138577b71a)
+- [Spring Data JPA](https://spring.io/projects/spring-data-jpa)
+- [Accessing Data with JPA](https://spring.io/guides/gs/accessing-data-jpa)
 ## SPRING
 - [Spring](https://spring.io/)
 - [Spring initializr](https://start.spring.io/)
