@@ -34,6 +34,7 @@
 - [pgAdmin for PostgreSQL](https://www.pgadmin.org/)
 - [DBeaver Community](https://dbeaver.io/)
 ## API REST
+- [¿Qué es una API RESTful?](https://aws.amazon.com/es/what-is/restful-api/)
 - [API for Dummies - Libro en formato PDF](https://news.america-digital.com/white-papers/IBM-Api-for-Dummies.pdf)
 - [The Best Way to Structure API Responses in Spring Boot](https://medium.com/@dulanjayasandaruwan1998/the-best-way-to-structure-api-responses-in-spring-boot-23eb6892daab)
 ## TOOLS
